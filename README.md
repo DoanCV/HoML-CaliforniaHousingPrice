@@ -1,4 +1,4 @@
-# Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow (Chapter 2)
+# Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow (In Progress)
 ### Introduction
 Chapter 2 of this book demonstrates the sturucture of a machine learning project with the popular California Housing Price dataset. This repository hosts my attempt on the exercises and the project.
 
